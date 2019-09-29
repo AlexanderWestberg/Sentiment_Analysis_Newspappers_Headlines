@@ -6,5 +6,5 @@ Currently there are no pre-trained swedish NLP models to predict sentiment on te
 
 Then I used a Wordcloud to get a sense of what all the newspappers was writing about for that day. Because I need some way to evaluate to see if the models did a good job of predicting the headlines
 
-To the sentiment analysis part I used the TextBlob- and Vader model to predict the Sentiment. Unfortunately the models did not do a quite good job of predicting the sentiment. Although it's hard to evaluate around 300-350 headlines, that was my impression of the performance. 
+To the sentiment analysis part I used the TextBlob- and Vader model to predict the Sentiment. Unfortunately the models did not do a quite good job of predicting the sentiment. Although it's hard to evaluate  300-350 headlines, but that was my impression of the performance. 
 
